@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TheBench SYSTEM "The-Bench.dtd">
+<TheBench>
+<Artist>
+  <name>
+    </name>
+  <bio>
+    </bio>
+  <medium>
+    </medium>
+  <showcase>
+    </showcase>
+  <contact>
+    <email>
+      </email>
+    <phone>
+      </phone>
+  </contact>
+</Artist>
+
+<Art>
+  <artist>
+    </artist>
+  <title>
+    </title>
+  <subject> <!-- (Who or What is Represented?) -->
+    </subject>
+  <date> <!-- (When was it made? Is it a copy of something older? Was it made before or after other similar works?) -->
+    </date>
+  <provenance> <!-- (Where was it made? For whom? Is it typical of the art of a geographical area?) -->
+    </provenance>
+  <location> <!-- (Where is the work of art now? Where was it originally located?) -->
+    </location>
+  <technique> <!-- How was the work created? -->
+    </technique>
+  <medium> <!-- What materials is the art made of? -->
+    </medium>
+</Art>
+
+<Event>
+  <location>
+  <date>
+  <time>
+  <artists>
+  <misc>
+</Event>
+
+<Apply>
+  <name>
+  <contact>
+    <email>
+    <phone>
+  <medium>
+</Apply>
+</TheBench>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT TheBench (Artist, Art, Event, Apply)>
+
+<!ELEMENT Artist (name+, bio+, medium+, showcase?, contact?)>
+  <!ELEMENT name>
+  <!ELEMENT bio>
+  <!ELEMENT medium>
+  <!ELEMENT showcase>
+  <!ELEMENT contact (email*, phone*)>
+    <!ELEMENT email>
+    <!ELEMENT phone>
+
+<!ELEMENT Art (artist+, title+, subject?, date?, provenance?, location?, technique?, medium?)>
+  <!ELEMENT artist>
+  <!ELEMENT title>
+  <!ELEMENT subject>
+  <!ELEMENT date>
+  <!ELEMENT provenance>
+  <!ELEMENT location>
+  <!ELEMENT technique>
+  <!ELEMENT medium>
+
+<!ELEMENT Event (location+, date+, time+, artists?, misc?)>
+  <!ELEMENT location>
+  <!ELEMENT date>
+  <!ELEMENT time>
+  <!ELEMENT artists>
+  <!ELEMENT misc>
+
+<!ELEMENT Apply (name+, contact+, medium?)>
+  <!ELEMENT name>
+  <!ELEMENT contact (email+, phone*)>
+    <!ELEMENT email>
+    <!ELEMENT phone>
+  <!ELEMENT medium>
