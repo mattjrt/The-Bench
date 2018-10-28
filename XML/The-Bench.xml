@@ -38,18 +38,23 @@
 </Art>
 
 <Event>
-  <location>
-  <date>
-  <time>
-  <artists>
-  <misc>
+  <location> </location>
+  <date> </date>
+  <time> </time>
+  <artists> </artists>
+  <misc> </misc>
 </Event>
 
 <Apply>
   <name>
+    </name>
   <contact>
+    </contact>
     <email>
+      </email>
     <phone>
+      </phone>
   <medium>
+    </medium>
 </Apply>
 </TheBench>
