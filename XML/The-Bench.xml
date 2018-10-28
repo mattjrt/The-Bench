@@ -2,57 +2,57 @@
 <!DOCTYPE TheBench SYSTEM "The-Bench.dtd">
 <TheBench>
 <Artist>
-  <name>
+  <name> Avery Williamson
     </name>
-  <bio>
+  <bio> Avery is a poet and verbal artist whose work is concerned with trans identity, rural identities, love, and more.
     </bio>
-  <medium>
+  <medium> Poetry
     </medium>
-  <showcase>
+  <showcase> A Salon by the Bench at 123 Pleasant St, Nov 15th, 2018
     </showcase>
   <contact>
-    <email>
+    <email> aswilliamson@mix.wvu.edu
       </email>
-    <phone>
+    <phone> 800 123 4567
       </phone>
   </contact>
 </Artist>
 
 <Art>
-  <artist>
+  <artist> Avery Williamson
     </artist>
-  <title>
+  <title> A Mans Hands Are a Mountain
     </title>
-  <subject> <!-- (Who or What is Represented?) -->
+  <subject> Hands <!-- (Who or What is Represented?) -->
     </subject>
-  <date> <!-- (When was it made? Is it a copy of something older? Was it made before or after other similar works?) -->
+  <date> 10-10-2018 <!-- (When was it made? Is it a copy of something older? Was it made before or after other similar works?) -->
     </date>
-  <provenance> <!-- (Where was it made? For whom? Is it typical of the art of a geographical area?) -->
+  <provenance> This poem is part of a series exploring homosexuality and male identity through hands <!-- (Where was it made? For whom? Is it typical of the art of a geographical area?) -->
     </provenance>
-  <location> <!-- (Where is the work of art now? Where was it originally located?) -->
+  <location> Morgantown, WV <!-- (Where is the work of art now? Where was it originally located?) -->
     </location>
-  <technique> <!-- How was the work created? -->
+  <technique> Flow of conscious <!-- How was the work created? -->
     </technique>
-  <medium> <!-- What materials is the art made of? -->
+  <medium> Poetry <!-- What materials is the art made of? -->
     </medium>
 </Art>
 
 <Event>
-  <location> </location>
-  <date> </date>
-  <time> </time>
-  <artists> </artists>
-  <misc> </misc>
+  <location> 123 Pleasant St, Morgantown, WV </location>
+  <date> 11-15-2018 </date>
+  <time> 7:00 pm </time>
+  <artists> Avery Williamson, Lou Richardson, Ineke Knudsen </artists>
+  <misc> Doors open at 7:00, but performances do not begin until 8:00 </misc>
 </Event>
 
 <Apply>
-  <name>
+  <name> James Jarrett
     </name>
   <contact>
     </contact>
-    <email>
+    <email> jarre039@umn.edu
       </email>
-    <phone>
+    <phone> 800 123 6789
       </phone>
   <medium>
     </medium>
